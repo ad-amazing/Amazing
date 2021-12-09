@@ -1,0 +1,32 @@
+body  {
+    background-color: cadetblue;
+}
+
+ul {
+    list-style: square;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10%;
+    border: solid
+}
+li {
+    padding="20px";
+    display: flex;
+    background-color: tomato;
+    margin: 10px;
+    border-radius: 10px;
+}
+li a{
+    color: wheat;
+    text-decoration: whitesmoke;
+}
+
+header {
+    background-color: cornflowerblue;
+}
+
+div {
+    background-repeat: no-repeat;
+    width: 100px
+    height:;
+}
